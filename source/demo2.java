@@ -48,7 +48,7 @@ public class demo2
    public demo2()
    {
        JFrame frame = new JFrame("Tic Tac Toe");  
-       frame.setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\Admin\\Desktop\\food\\images\\almighty-tic-tac-toe-2015-06-04.png"));
+       frame.setIconImage(Toolkit.getDefaultToolkit().getImage("almighty-tic-tac-toe-2015-06-04.png"));
        frame.setSize(500,500);
        frame.setLocationRelativeTo(null);
 
